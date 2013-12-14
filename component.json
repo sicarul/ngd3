@@ -1,0 +1,22 @@
+{
+  "name": "ngd3",
+  "repo": "sicarul/ngd3",
+  "description": "A small, free JavaScript library for manipulating documents based on data.",
+  "keywords": [
+    "dom",
+    "w3c",
+    "visualization",
+    "svg",
+    "animation",
+    "canvas"
+  ],
+  "version": "3.3.12",
+  "main": "index-browserify.js",
+  "scripts": [
+    "ngd3.js",
+    "index-browserify.js"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "BSD"
+}
